@@ -1,0 +1,18 @@
+{
+    "name": "dinotech/composer-test",
+    "description": "Library",
+    "type": "library",
+    "license": "CE",
+    "autoload": {
+        "psr-4": {
+            "Dinotech\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dinotech",
+            "email": "parwani.prakash@gmail.com"
+        }
+    ],
+    "require": {}
+}
